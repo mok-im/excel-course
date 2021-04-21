@@ -11,8 +11,8 @@ Webpack (import/exports)
 Git
 
   Production
-    1.0.0
+    2.0.0
     ----------
   Development
-    1.0.2
+    2.0.2
     -------------
